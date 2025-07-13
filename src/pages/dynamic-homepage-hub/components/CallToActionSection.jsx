@@ -179,15 +179,15 @@ const CallToActionSection = () => {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-8">
             <div className="flex items-center text-text-secondary">
               <Icon name="Mail" size={20} className="mr-2 text-accent" />
-              <span>alex@portfolioverse.com</span>
+              <span>adwaithv@portfolioverse.com</span>
             </div>
             <div className="flex items-center text-text-secondary">
               <Icon name="Phone" size={20} className="mr-2 text-accent" />
-              <span>+1 (555) 123-4567</span>
+              <span>+91 5551234567</span>
             </div>
             <div className="flex items-center text-text-secondary">
               <Icon name="MapPin" size={20} className="mr-2 text-accent" />
-              <span>San Francisco, CA</span>
+              <span>Kerala</span>
             </div>
           </div>
 
