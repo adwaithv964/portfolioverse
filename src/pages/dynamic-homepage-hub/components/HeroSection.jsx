@@ -121,7 +121,7 @@ const HeroSection = () => {
               <span className="block text-2xl sm:text-3xl lg:text-4xl font-medium text-text-secondary mb-2">
                 {getGreeting()}
               </span>
-              <span className="text-gradient">ADWAITH V</span>
+              <span className="text-gradient">ADWAITH  V</span>
             </h1>
             <motion.p
               className="text-xl sm:text-2xl lg:text-3xl text-text-secondary max-w-3xl mx-auto leading-relaxed"
