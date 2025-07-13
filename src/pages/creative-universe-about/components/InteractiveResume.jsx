@@ -9,11 +9,11 @@ const InteractiveResume = () => {
     experience: [
       {
         id: 1,
-        title: "Senior UX/UI Designer",
+        title: "Junior UX/UI Designer",
         company: "TechFlow Solutions",
-        period: "2022 - Present",
-        location: "San Francisco, CA",
-        type: "Full-time",
+        period: "2024",
+        location: "Kochi",
+        type: "remote",
         description: "Leading design initiatives for B2B SaaS products, managing a team of 3 designers, and establishing design systems that improved development efficiency by 40%.",
         achievements: [
           "Redesigned core product interface, increasing user engagement by 65%",
@@ -28,8 +28,8 @@ const InteractiveResume = () => {
         title: "Product Designer",
         company: "StartupVenture Inc.",
         period: "2020 - 2022",
-        location: "Austin, TX",
-        type: "Full-time",
+        location: "Kozhikode",
+        type: "remote",
         description: "Designed end-to-end user experiences for mobile and web applications, collaborated with cross-functional teams, and contributed to product strategy decisions.",
         achievements: [
           "Designed mobile app that reached 100K+ downloads in first year",
@@ -59,10 +59,10 @@ const InteractiveResume = () => {
     education: [
       {
         id: 1,
-        degree: "Bachelor of Fine Arts in Graphic Design",
-        institution: "California College of the Arts",
-        period: "2014 - 2018",
-        location: "Oakland, CA",
+        degree: "Bachelor of Computer Science",
+        institution: "College of Applied Science",
+        period: "2023 - 2026",
+        location: "Thamarassery, Kozhikode",
         gpa: "3.8/4.0",
         honors: ["Magna Cum Laude", "Dean's List (6 semesters)"],
         coursework: ["Typography", "Brand Identity", "User Experience Design", "Digital Media", "Design History"],
@@ -76,8 +76,8 @@ const InteractiveResume = () => {
         id: 2,
         degree: "Certificate in UX Design",
         institution: "General Assembly",
-        period: "2019",
-        location: "San Francisco, CA",
+        period: "2023",
+        location: "kozhikode",
         description: "Intensive 10-week program covering user research, wireframing, prototyping, and usability testing.",
         projects: [
           "Mobile app design for food delivery service",
@@ -91,7 +91,7 @@ const InteractiveResume = () => {
         id: 1,
         name: "Google UX Design Professional Certificate",
         issuer: "Google",
-        date: "2021",
+        date: "2023",
         credentialId: "GUX-2021-4567",
         skills: ["User Research", "Wireframing", "Prototyping", "Usability Testing"]
       },
@@ -99,7 +99,7 @@ const InteractiveResume = () => {
         id: 2,
         name: "Adobe Certified Expert - Photoshop",
         issuer: "Adobe",
-        date: "2020",
+        date: "2023",
         credentialId: "ACE-PS-2020-8901",
         skills: ["Photo Editing", "Digital Art", "Compositing"]
       },
@@ -107,7 +107,7 @@ const InteractiveResume = () => {
         id: 3,
         name: "Figma Advanced Certification",
         issuer: "Figma",
-        date: "2022",
+        date: "2024",
         credentialId: "FIG-ADV-2022-2345",
         skills: ["Design Systems", "Component Libraries", "Collaboration"]
       }

@@ -20,31 +20,31 @@ const SocialProofSection = () => {
   const testimonials = [
     {
       id: 1,
-      name: "Sarah Chen",
+      name: "Sara Paul",
       role: "Product Manager",
       company: "TechFlow Inc.",
       avatar: "https://randomuser.me/api/portraits/women/32.jpg",
-      content: "Alex delivered an exceptional web application that exceeded our expectations. The attention to detail and innovative approach to user experience was remarkable.",
+      content: "PortfolioVers delivered an exceptional web application that exceeded our expectations. The attention to detail and innovative approach to user experience was remarkable.",
       rating: 5,
       project: "EcoVision Dashboard"
     },
     {
       id: 2,
-      name: "Michael Rodriguez",
+      name: "Rahul P",
       role: "CEO",
       company: "StartupLab",
       avatar: "https://randomuser.me/api/portraits/men/45.jpg",
-      content: "Working with Alex was a game-changer for our startup. The mobile app he developed helped us secure our Series A funding. Highly recommended!",
+      content: "Working with PortfolioVers was a game-changer for our startup. The mobile app he developed helped us secure our Series A funding. Highly recommended!",
       rating: 5,
       project: "FinanceFlow Mobile"
     },
     {
       id: 3,
-      name: "Emily Watson",
+      name: "Priya Menon",
       role: "Creative Director",
       company: "ArtSpace Gallery",
       avatar: "https://randomuser.me/api/portraits/women/28.jpg",
-      content: "The virtual gallery platform Alex created transformed how we showcase art. The AR features and seamless user experience have increased our online sales by 300%.",
+      content: "The virtual gallery platform PortfolioVerse created transformed how we showcase art. The AR features and seamless user experience have increased our online sales by 300%.",
       rating: 5,
       project: "ArtSpace Gallery"
     }

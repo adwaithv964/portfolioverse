@@ -16,25 +16,17 @@ const AnimatedTimeline = () => {
       id: 1,
       year: "2018",
       title: "The Spark",
-      description: "First encounter with design through a college project that changed everything. What started as a simple assignment became a passion that would define my career path.",
+      description: "First encounter with design a webpage, that changed everything. What started as a simple assignment became a passion that would define my career path.",
       image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&h=300&fit=crop",
       icon: "Lightbulb",
       color: "from-yellow-400 to-orange-500"
     },
-    {
-      id: 2,
-      year: "2019",
-      title: "First Client",
-      description: "Landed my first freelance project - a local bakery's brand identity. The nervous excitement of presenting concepts and seeing them come to life was unforgettable.",
-      image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?w=400&h=300&fit=crop",
-      icon: "Users",
-      color: "from-blue-400 to-purple-500"
-    },
+  
     {
       id: 3,
       year: "2020",
       title: "Digital Transformation",
-      description: "Pivoted to digital-first design during the pandemic. Learned React, explored web animations, and discovered the power of interactive storytelling.",
+      description: "Pivoted to digital-first design during the pandemic. Learned React, explored web animations, and discovered the power of interactive learning.",
       image: "https://images.pixabay.com/photo/2020/05/18/16/17/social-media-5187243_1280.jpg?w=400&h=300&fit=crop",
       icon: "Monitor",
       color: "from-green-400 to-teal-500"
@@ -42,8 +34,8 @@ const AnimatedTimeline = () => {
     {
       id: 4,
       year: "2021",
-      title: "Agency Experience",
-      description: "Joined a creative agency where I learned to work with diverse teams, manage multiple projects, and deliver under pressure while maintaining quality.",
+      title: "Graphic Designing",
+      description: "Joined a creative team where I learned to work in photoshop, Adobe XD etc..",
       image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&h=300&fit=crop",
       icon: "Building",
       color: "from-purple-400 to-pink-500"
@@ -52,7 +44,7 @@ const AnimatedTimeline = () => {
       id: 5,
       year: "2022",
       title: "Specialization",
-      description: "Found my niche in creating immersive digital experiences. Developed expertise in motion design, user psychology, and conversion optimization.",
+      description: "Found my niche in creating immersive digital experiences. Developed expertise in web design, Ai integrating, and conversion optimization.",
       image: "https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?w=400&h=300&fit=crop",
       icon: "Target",
       color: "from-red-400 to-rose-500"
@@ -61,16 +53,16 @@ const AnimatedTimeline = () => {
       id: 6,
       year: "2023",
       title: "Independent Journey",
-      description: "Launched my independent practice, focusing on helping brands create memorable digital experiences that drive real business results.",
+      description: "Launched my independent practice, focusing on web development, create memorable digital experiences that drive real results.",
       image: "https://images.pixabay.com/photo/2017/07/31/11/21/people-2557396_1280.jpg?w=400&h=300&fit=crop",
       icon: "Rocket",
       color: "from-indigo-400 to-blue-500"
     },
     {
       id: 7,
-      year: "2024",
-      title: "Innovation Focus",
-      description: "Currently exploring AI-assisted design workflows, sustainable web practices, and creating accessible experiences that don't compromise on creativity.",
+      year: "2025",
+      title: "Learning Cyber Security",
+      description: "Currently exploring Ai based Cyber security, sustainable web practices, and creating accessible experiences that don't compromise on creativity.",
       image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
       icon: "Zap",
       color: "from-cyan-400 to-blue-500"

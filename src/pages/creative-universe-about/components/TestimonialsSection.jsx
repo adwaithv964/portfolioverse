@@ -9,7 +9,7 @@ const TestimonialsSection = () => {
   const testimonials = [
     {
       id: 1,
-      name: "Sarah Chen",
+      name: "Sarah paul",
       role: "Product Manager",
       company: "TechFlow Solutions",
       image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=100&h=100&fit=crop",
@@ -21,7 +21,7 @@ const TestimonialsSection = () => {
     },
     {
       id: 2,
-      name: "Marcus Rodriguez",
+      name: "Rahul P",
       role: "CEO",
       company: "StartupVenture Inc.",
       image: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?w=100&h=100&fit=crop",
@@ -33,7 +33,7 @@ const TestimonialsSection = () => {
     },
     {
       id: 3,
-      name: "Emily Watson",
+      name: "Priya Menon",
       role: "Marketing Director",
       company: "GreenTech Innovations",
       image: "https://images.pixabay.com/photo/2016/11/29/13/14/attractive-1869761_1280.jpg?w=100&h=100&fit=crop",
@@ -45,7 +45,7 @@ const TestimonialsSection = () => {
     },
     {
       id: 4,
-      name: "David Kim",
+      name: "David ",
       role: "Senior Developer",
       company: "TechFlow Solutions",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
@@ -57,7 +57,7 @@ const TestimonialsSection = () => {
     },
     {
       id: 5,
-      name: "Lisa Thompson",
+      name: "Lisa Thomson",
       role: "UX Researcher",
       company: "UserFirst Labs",
       image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
@@ -66,18 +66,6 @@ const TestimonialsSection = () => {
       rating: 5,
       relationship: "Research Partner",
       duration: "10 months"
-    },
-    {
-      id: 6,
-      name: "James Wilson",
-      role: "Founder",
-      company: "LocalBites Restaurant",
-      image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?w=100&h=100&fit=crop",
-      content: "As a small business owner, I was worried about working with a designer, but the process was smooth and the results were amazing. The new brand identity and website helped us attract a younger demographic and increase online orders by 200%.",
-      project: "Restaurant Branding",
-      rating: 5,
-      relationship: "Client",
-      duration: "3 months"
     }
   ];
 

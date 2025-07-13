@@ -8,9 +8,9 @@ const ContactMethods = () => {
       id: 'email',
       title: 'Email',
       description: 'Best for detailed project discussions and formal inquiries',
-      value: 'hello@portfolioverse.com',
+      value: 'adwaithv@portfolioverse.com',
       icon: 'Mail',
-      action: 'mailto:hello@portfolioverse.com',
+      action: 'mailto:adwaithv@portfolioverse.com',
       responseTime: '24 hours',
       preferred: true
     },
@@ -18,9 +18,9 @@ const ContactMethods = () => {
       id: 'phone',
       title: 'Phone',
       description: 'Quick calls for urgent matters and project consultations',
-      value: '+1 (555) 123-4567',
+      value: '+91 5551234567',
       icon: 'Phone',
-      action: 'tel:+15551234567',
+      action: 'tel:+915551234567',
       responseTime: 'Business hours',
       availability: 'Mon-Fri, 9AM-6PM EST'
     },

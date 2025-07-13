@@ -260,7 +260,7 @@ const PersonalityCTA = () => {
                   <Icon name="Mail" size={24} color="white" />
                 </div>
                 <h4 className="font-semibold text-text-primary mb-1">Email</h4>
-                <p className="text-text-secondary text-sm">hello@portfolioverse.com</p>
+                <p className="text-text-secondary text-sm">adwaithv@portfolioverse.com</p>
                 <p className="text-xs text-text-secondary mt-1">Response within 24 hours</p>
               </div>
               

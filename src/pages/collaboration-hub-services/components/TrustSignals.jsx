@@ -40,7 +40,7 @@ const TrustSignals = () => {
 
   const achievements = [
     {
-      metric: "150+",
+      metric: "50+",
       label: "Projects Completed",
       icon: "CheckCircle"
     },

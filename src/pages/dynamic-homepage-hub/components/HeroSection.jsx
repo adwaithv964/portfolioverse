@@ -27,8 +27,8 @@ const HeroSection = () => {
   const getGreeting = () => {
     const hour = currentTime.getHours();
     if (hour < 12) return "Good morning, I'm";
-    if (hour < 17) return "Good afternoon, I'm";
-    if (hour < 21) return "Good evening, I'm";
+    if (hour < 16) return "Good afternoon, I'm";
+    if (hour < 20) return "Good evening, I'm";
     return "Creating something amazing...";
   };
 
@@ -121,7 +121,7 @@ const HeroSection = () => {
               <span className="block text-2xl sm:text-3xl lg:text-4xl font-medium text-text-secondary mb-2">
                 {getGreeting()}
               </span>
-              <span className="text-gradient">ADWAITH  V</span>
+              <span className="text-gradient">Adwaith V</span>
             </h1>
             <motion.p
               className="text-xl sm:text-2xl lg:text-3xl text-text-secondary max-w-3xl mx-auto leading-relaxed"
@@ -129,7 +129,7 @@ const HeroSection = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.3, duration: 0.8 }}
             >
-              Creative Developer & Crafting immersive experiences that bridge imagination and technology
+              Creative Web Developer & Crafting immersive experiences that bridge imagination and technology
             </motion.p>
           </motion.div>
 
@@ -182,7 +182,7 @@ const HeroSection = () => {
       >
         <div className="bg-card/80 backdrop-blur-md rounded-lg p-4 creative-shadow">
           <div className="text-center">
-            <div className="text-2xl font-bold text-primary">150+</div>
+            <div className="text-2xl font-bold text-primary">50+</div>
             <div className="text-sm text-text-secondary">Projects Completed</div>
           </div>
         </div>

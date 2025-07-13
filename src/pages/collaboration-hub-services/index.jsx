@@ -25,7 +25,7 @@ const CollaborationHubServices = () => {
       iconBg: "bg-gradient-to-br from-purple-500 to-pink-500",
       description: "Create a memorable brand identity that resonates with your audience and stands out in the marketplace.",
       timeline: "3-4 weeks",
-      startingPrice: "$5,000",
+      startingPrice: "$200",
       tags: ["Logo", "Guidelines", "Assets"],
       includes: [
         "Logo design & variations",
@@ -63,7 +63,7 @@ const CollaborationHubServices = () => {
       iconBg: "bg-gradient-to-br from-blue-500 to-cyan-500",
       description: "Build stunning, high-performance websites that convert visitors into customers and grow your business.",
       timeline: "6-8 weeks",
-      startingPrice: "$8,000",
+      startingPrice: "$500",
       tags: ["Responsive", "CMS", "SEO"],
       includes: [
         "Custom website design",
@@ -71,7 +71,7 @@ const CollaborationHubServices = () => {
         "Content management system",
         "SEO optimization",
         "Performance optimization",
-        "3 months support"
+        "12 months support"
       ],
       process: [
         { title: "Planning", description: "Sitemap & wireframes" },
@@ -101,7 +101,7 @@ const CollaborationHubServices = () => {
       iconBg: "bg-gradient-to-br from-green-500 to-teal-500",
       description: "Design intuitive user experiences that delight users and drive engagement through thoughtful interface design.",
       timeline: "4-6 weeks",
-      startingPrice: "$6,000",
+      startingPrice: "$600",
       tags: ["Research", "Prototyping", "Testing"],
       includes: [
         "User research & personas",
@@ -139,7 +139,7 @@ const CollaborationHubServices = () => {
       iconBg: "bg-gradient-to-br from-orange-500 to-red-500",
       description: "Build robust, scalable web applications with modern technologies and best practices for optimal performance.",
       timeline: "8-12 weeks",
-      startingPrice: "$12,000",
+      startingPrice: "$1000",
       tags: ["React", "Node.js", "Database"],
       includes: [
         "Custom application development",
@@ -172,42 +172,8 @@ const CollaborationHubServices = () => {
   ];
 
   const featuredTestimonials = [
-    {
-      content: "Working with PortfolioVerse transformed our entire digital presence. The attention to detail and creative vision exceeded our expectations. Our website now perfectly represents our brand and has significantly improved our conversion rates.",
-      name: "Sarah Mitchell",
-      role: "Marketing Director",
-      company: "TechFlow Solutions",
-      avatar: "https://randomuser.me/api/portraits/women/44.jpg",
-      rating: 5,
-      date: "December 2024",
-      project: {
-        name: "Complete Brand & Website Redesign",
-        type: "Brand Identity + Web Development",
-        tags: ["Branding", "Web Design", "Development"]
-      },
-      results: [
-        { value: "150%", metric: "Conversion Increase" },
-        { value: "3.2s", metric: "Load Time" }
-      ]
-    },
-    {
-      content: "The UX research and design process was incredibly thorough. They took time to understand our users and created an interface that's both beautiful and highly functional. Our user engagement has improved dramatically.",
-      name: "Michael Rodriguez",
-      role: "Product Manager",
-      company: "InnovateApp",
-      avatar: "https://randomuser.me/api/portraits/men/36.jpg",
-      rating: 5,
-      date: "November 2024",
-      project: {
-        name: "Mobile App UX/UI Redesign",
-        type: "UX/UI Design",
-        tags: ["UX Research", "UI Design", "Mobile"]
-      },
-      results: [
-        { value: "85%", metric: "User Satisfaction" },
-        { value: "40%", metric: "Task Completion" }
-      ]
-    }
+    
+      
   ];
 
   const pricingPackages = [
